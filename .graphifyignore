@@ -1,0 +1,19 @@
+# fotos, capturas y binarios: no aportan al mapa del proyecto
+assets/img/
+assets/fonts/
+_originales/
+.impeccable/review/
+.impeccable/mocks/*.png
+.impeccable/mocks/*.jpg
+graphify-out/
+node_modules/
+*.png
+*.jpg
+*.webp
+# copia de publicación y dependencias/salidas del video
+muestra/
+video/node_modules/
+video/public/
+video/out/
+video/package-lock.json
+package-lock.json

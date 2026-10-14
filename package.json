@@ -1,0 +1,10 @@
+{
+  "name": "finca-el-tesoro-del-sinu",
+  "private": true,
+  "description": "Sitio web de la Casafinca El Tesoro del Sinú, Montería",
+  "scripts": {
+    "test": "node --test tests/cotizador.test.js",
+    "start": "npx --yes serve -l 4321 .",
+    "muestra": "node scripts/muestra.js"
+  }
+}
